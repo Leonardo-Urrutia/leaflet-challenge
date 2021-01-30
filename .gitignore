@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # my config
-config.js
+static/js/config.js
